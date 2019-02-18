@@ -1,0 +1,21 @@
+{
+	"datasets": [{
+		"id": 1,
+		"name": "izsyn",
+		"filename": "izsyn_data.csv",
+		"ext":"csv",
+		"category": "syn",
+		"row": 50,
+		"col": 4,
+		"target": "SynData"
+	}, {
+		"id": 2,
+		"name": "oil field",
+		"filename": "oil and gas sample data (history match 6 variables).xlsx",
+		"ext":"xlsx",
+		"category": "ong",
+		"row": 50,
+		"col": 4,
+		"target": ""
+	}]
+}
