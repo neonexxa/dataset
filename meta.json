@@ -1,21 +1,58 @@
 {
-	"datasets": [{
+	"datasets": [
+		{
 		"id": 1,
-		"name": "izsyn",
-		"filename": "izsyn_data.csv",
+		"name": "basic",
+		"filename": "basic.csv",
 		"ext":"csv",
-		"category": "syn",
+		"category": "synthetic",
 		"row": 50,
 		"col": 4,
-		"target": "SynData"
+		"target": "ObjFunc"
 	}, {
 		"id": 2,
-		"name": "oil field",
-		"filename": "oil and gas sample data (history match 6 variables).xlsx",
-		"ext":"xlsx",
-		"category": "ong",
-		"row": 50,
+		"name": "sinusoidal",
+		"filename": "sinusoidal.csv",
+		"ext":"csv",
+		"category": "synthetic",
+		"row": 1000,
 		"col": 4,
-		"target": ""
+		"target": "y"
+	}, {
+		"id": 3,
+		"name": "history_match_6v",
+		"filename": "history_match_6v.csv",
+		"ext":"csv",
+		"category": "oil_and_gas",
+		"row": 51,
+		"col": 7,
+		"target": "hm_error"
+	}, {
+		"id": 4,
+		"name": "logs",
+		"filename": "logs.csv",
+		"ext":"csv",
+		"category": "oil_and_gas",
+		"row": 10890,
+		"col": 5,
+		"target": "permeability"
+	}, {
+		"id": 5,
+		"name": "logs_mini",
+		"filename": "logs_mini.csv",
+		"ext":"csv",
+		"category": "oil_and_gas",
+		"row": 50,
+		"col": 5,
+		"target": "permeability"
+	}, {
+		"id": 6,
+		"name": "stock_market",
+		"filename": "stock_market.csv",
+		"ext":"csv",
+		"category": "financial",
+		"row": 272,
+		"col": 34,
+		"target": "pct_change_22"
 	}]
 }
