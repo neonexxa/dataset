@@ -45,14 +45,5 @@
 		"row": 50,
 		"col": 5,
 		"target": "permeability"
-	}, {
-		"id": 6,
-		"name": "stock_market",
-		"filename": "stock_market.csv",
-		"ext":"csv",
-		"category": "financial",
-		"row": 272,
-		"col": 34,
-		"target": "pct_change_22"
 	}]
 }
