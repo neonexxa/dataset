@@ -46,7 +46,7 @@
 		"col": 5,
 		"target": "permeability"
 	}, {
-		"id": 7,
+		"id": 6,
 		"name": "production",
 		"filename": "production.csv",
 		"ext":"csv",
@@ -55,7 +55,7 @@
 		"col": 10,
 		"target": ["1st month prod","3rd month prod","6th month prod","1st year prod","2nd year prod","3rd year prod","5th year prod"]
 	}, {
-		"id": 8,
+		"id": 7,
 		"name": "rf",
 		"filename": "rf.csv",
 		"ext":"csv",
