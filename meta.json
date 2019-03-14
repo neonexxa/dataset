@@ -71,7 +71,7 @@
 		"description": "Often time, we want to be able to gauge recovery factor of a reservoir based on analog. This dataset is an example of how this can be done. Using the LEARN function as you would use any other Excel function, AiSara can learn the relationship between the input and output You can also use the LEARN menu above if you like. Then you can predict the RF using the PREDICT function. Do you have enough data to make a reliable prediction? Check out our BLINDTEST feature to find out."
 	}, {
 		"id": 8,
-		"name": "Housing",
+		"name": "Sale_Price",
 		"filename": "House_Sale_Price.csv",
 		"ext": "csv",
 		"category": "Housing",
