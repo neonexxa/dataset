@@ -78,6 +78,6 @@
 		"row": 1460,
 		"col": 5,
 		"target": "SalePrice",
-		"description": "Often time, we want to be able to gauge recovery factor of a reservoir based on analog. This dataset is an example of how this can be done. Using the LEARN function as you would use any other Excel function, AiSara can learn the relationship between the input and output You can also use the LEARN menu above if you like. Then you can predict the RF using the PREDICT function. Do you have enough data to make a reliable prediction? Check out our BLINDTEST feature to find out."
+		"description": "AiSara can predict the price of houses based on the variables of this dataset which are:.1) Overall Quality Rating (Out of 10).2) Overall Condition Rating (Out of 10).3) The Year when the house was built.4) The Year when the house was remodified.5) Output : Sale Price. AiSara is able to handle the 1400+ rows of data, and learn from it. Due to the omission of variables and some in noise this data set, the average error may be present. Reword, it doe't sound right."
 	}]
 }
