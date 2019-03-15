@@ -81,7 +81,7 @@
 		"description": "AiSara can predict the price of houses based on the variables of this dataset which are:.1) Overall Quality Rating (Out of 10).2) Overall Condition Rating (Out of 10).3) The Year when the house was built.4) The Year when the house was remodified.5) Output : Sale Price. AiSara is able to handle the 1400+ rows of data, and learn from it. Due to the omission of variables and some in noise this data set, the average error may be present. Reword, it doe't sound right."
 	}, {
 		"id": 9,
-		"name": "Credit_Card_Fraud_Detection",
+		"name": "Credit_Card_Fraud",
 		"filename": "Credit_Card_Fraud_Kaggle.csv",
 		"ext": "csv",
 		"category": "Banking",
