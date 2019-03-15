@@ -79,5 +79,15 @@
 		"col": 5,
 		"target": "SalePrice",
 		"description": "AiSara can predict the price of houses based on the variables of this dataset which are:.1) Overall Quality Rating (Out of 10).2) Overall Condition Rating (Out of 10).3) The Year when the house was built.4) The Year when the house was remodified.5) Output : Sale Price. AiSara is able to handle the 1400+ rows of data, and learn from it. Due to the omission of variables and some in noise this data set, the average error may be present. Reword, it doe't sound right."
+	}, {
+		"id": 9,
+		"name": "Credit_Card_Fraud_Detection",
+		"filename": "Credit_Card_Fraud_Kaggle.csv",
+		"ext": "csv",
+		"category": "Banking",
+		"row": 1582,
+		"col": 31,
+		"target": "Class",
+		"description": "The datasets contains transactions made by credit cards in September 2013 by european cardholders. It contains only numerical input variables which are V1 to V28, and due to confidentiality the variables are named that way. These variables have been given numerical values which has undergone PCA transformation. AISara can learn the input variables of Time, V1 to V28, and Amount against the output, Class (where 1 is fraud, and 0 is non-fraud), and predict potential credit card fraud based on the input variables. You can try out and learn all 30 variables with AiSara Pro."
 	}]
 }
